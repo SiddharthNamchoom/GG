@@ -1,0 +1,37 @@
+center {
+text-align: top;
+    position: fixed;   
+    
+}
+
+.menu {
+    float:left; list-style:none; color:white; position:fixed; background:black; width:100%; margin-top:0px; top:0px; z-index:10; 
+    text-align: center;
+}
+.li {
+    float: left;
+    color: #fff;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family:roboto;
+    font-size: 20px
+}
+#P {
+   width: 90%;
+    height: 600px;
+ padding-top: 50px; 
+}
+body {
+    text-align: center;
+    background-color: aquamarine;
+}
+.image2 {
+    width: 300px;
+    height: 300px;
+}
+img{
+width: 400px;
+    height: 300px;
+}
